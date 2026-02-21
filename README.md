@@ -1,6 +1,6 @@
 # Hi, I’m Chrispian
 
-> Senior AI Engineer · Systems Architect · Builder of Engines, Frameworks, and Stories
+> Senior AI Engineer · I build tools and systems enabling human + ai collaboration focused on safety, trust, and accountability to solve enterprise scale demands.  
 
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://openai.com) 
 [![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=flat&logo=anthropic&logoColor=white)](https://www.anthropic.com) 
