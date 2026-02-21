@@ -15,7 +15,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub-2088FF?style=flat&logo=github&logoColor=white)](https://github.com/chrispian)  
 
 ## Profession & Current Role
-I’m a **Senior AI Engineer** specializing in **AI-driven development and systems, AI orchestration, automation, and integrations.**.  
+I’m a **Senior AI Engineer** specializing in **AI-driven development and systems, AI orchestration, automation, and integration.** 
 My work centers on **solutions architecture, technical leadership, and enterprise-scale automation**, helping teams bridge platforms, APIs, and data systems into coherent, resilient solutions.
 
 ## Top Skills & Technologies
@@ -32,7 +32,7 @@ My work centers on **solutions architecture, technical leadership, and enterpris
 - **Technical Leadership** – Advocated for and established **Staff Engineer / Solutions Architect roles**, shaping cross-team technical strategy.  
 
 ### Personal
-- **[Nanite]()** - An opinionated notes/todo app that is built around speed and reducing cognitive load. Currently in developer preview. 
+- **[Nanite](https://github.com/hollis-labs/nanite)** - An opinionated notes/todo app that is built around speed and reducing cognitive load. Currently in developer preview. 
 - **[Fragments Engine](https://fragmentsengine.com)** – A Laravel + Livewire knowledge engine for **atomic note-taking, AI enrichment, and agent orchestration**.  
 - **CSTL (Character Sheet Template Language)** – An open JSON-based standard for representing RPG character sheets, rules, and layouts, with Filament CRUD and dictionary support.  
 - **LnkLst** – A modern bookmarking and link-sharing platform that blends **AI tagging, auto-ranking, RSS feeds, APIs, and Chrome extensions**. A cross between Readwise, link sharing, and tab management. Users can publish curated lists (e.g. *Laravel Starter Kits* or *My Social Links*) with velocity-based ranking signals from the web.  
