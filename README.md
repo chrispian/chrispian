@@ -1,7 +1,10 @@
 # Hi, I’m Chrispian
 
-> Senior Software Engineer · Systems Architect · Builder of Engines, Frameworks, and Stories
+> Senior AI Engineer · Systems Architect · Builder of Engines, Frameworks, and Stories
 
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://openai.com) 
+[![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=flat&logo=anthropic&logoColor=white)](https://www.anthropic.com) 
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)](https://ollama.ai)  
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com) 
 [![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)](https://livewire.laravel.com) 
 [![Filament](https://img.shields.io/badge/FilamentPHP-3B82F6?style=flat&logo=laravel&logoColor=white)](https://filamentphp.com) 
@@ -10,12 +13,9 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com) 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com) 
 [![GitHub Actions](https://img.shields.io/badge/GitHub-2088FF?style=flat&logo=github&logoColor=white)](https://github.com/chrispian)  
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://openai.com) 
-[![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=flat&logo=anthropic&logoColor=white)](https://www.anthropic.com) 
-[![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)](https://ollama.ai)  
 
 ## Profession & Current Role
-I’m a **Senior Software Engineer** specializing in **Laravel, Filament, and AI-driven systems**.  
+I’m a **Senior AI Engineer** specializing in **AI-driven development and systems, AI orchestration, automation, and integrations.**.  
 My work centers on **solutions architecture, technical leadership, and enterprise-scale automation**, helping teams bridge platforms, APIs, and data systems into coherent, resilient solutions.
 
 ## Top Skills & Technologies
@@ -32,6 +32,7 @@ My work centers on **solutions architecture, technical leadership, and enterpris
 - **Technical Leadership** – Advocated for and established **Staff Engineer / Solutions Architect roles**, shaping cross-team technical strategy.  
 
 ### Personal
+- **[Nanite]()** - An opinionated notes/todo app that is built around speed and reducing cognitive load. Currently in developer preview. 
 - **[Fragments Engine](https://fragmentsengine.com)** – A Laravel + Livewire knowledge engine for **atomic note-taking, AI enrichment, and agent orchestration**.  
 - **CSTL (Character Sheet Template Language)** – An open JSON-based standard for representing RPG character sheets, rules, and layouts, with Filament CRUD and dictionary support.  
 - **LnkLst** – A modern bookmarking and link-sharing platform that blends **AI tagging, auto-ranking, RSS feeds, APIs, and Chrome extensions**. A cross between Readwise, link sharing, and tab management. Users can publish curated lists (e.g. *Laravel Starter Kits* or *My Social Links*) with velocity-based ranking signals from the web.  
@@ -54,7 +55,8 @@ My path has spanned from **founding early online communities for writers** to **
 - [Twitter](https://twitter.com/chrispian)
 
 ## Fun Facts & Hobbies
-- Writing speculative sci-fi (**Rendered State Cosmology**, *Liminal Space Saga*) and urban fantasy (*The Saint of Broken Things*).  
-- Designing tabletop RPG systems (CSTL grew from this).  
-- Running experimental projects with goats and cats as mascots.  
+- Writing speculative sci-fi and urban fantasy.  
+- Designing & playing tabletop RPG systems (CSTL grew from this).  
+- Experimenting with tech that blurs the line of what's possible with human + computer interfaces.
+- Music and sound design (midi). 
 - Still nostalgic for old-school BBS era ANSI art, UI/UX, and Interface designs.
